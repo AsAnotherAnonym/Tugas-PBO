@@ -1,2 +1,4 @@
 # Tugas-PBO
-Berisi tugas-tugas matkul
+Halo selamat datang 👋👋👋
+
+Repo ini berisi tugas-tugasku dari matkul PBO 

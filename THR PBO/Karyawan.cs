@@ -2,7 +2,7 @@
 
 namespace SistemManajemenKaryawan
 {
-    class Karyawan
+    abstract class Karyawan
     {
         private string nama;
         private string id;
